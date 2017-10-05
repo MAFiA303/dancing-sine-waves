@@ -2,5 +2,9 @@
 create a gif using python of smokey sine waves rotating around each other
 
 
-<a href="https://imgur.com/paKDYM8"><img src="https://i.imgur.com/paKDYM8.gif" title="source: imgur.com" /></a>
+<img src="https://i.imgur.com/paKDYM8.gif"/>
+
+
+<img src="https://i.imgur.com/ATGv9Z3.gif"/>
+
 
