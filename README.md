@@ -3,7 +3,7 @@
 ## create a gif using python of smokey sine waves rotating around each other
 
 
-<img src="https://i.imgur.com/paKDYM8.gif"/>
+<center><img src="https://i.imgur.com/paKDYM8.gif" width="300"/></center>
 
 
 
